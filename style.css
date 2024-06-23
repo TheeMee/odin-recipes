@@ -14,9 +14,11 @@ h1 {
     text-align: center;
     width: 60%;
     margin: 0 auto 10px;
+    padding: 20px;
     font-weight: 850px;
     font-size: 42px;
     background-color: #d08a50;
+    color: #ffff;
 }
 
 img {
@@ -31,7 +33,9 @@ hr {
 .heading {
     font-weight: bold;
     margin-top: 12px;
+    padding: 12px;
     background-color: #ffc799;
+
 }
 
 
