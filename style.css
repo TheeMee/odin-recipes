@@ -11,12 +11,11 @@ body {
 
 
 h1 {
-    width: 50%;
+    text-align: center;
+    width: 60%;
     margin: 0 auto 10px;
     font-weight: 850px;
     font-size: 42px;
-    text-decoration: double;
-    text-align: center;
     background-color: #d08a50;
 }
 
@@ -31,8 +30,7 @@ hr {
 
 .heading {
     font-weight: bold;
-    text-decoration: wavy;
-    margin-top: 0px;
+    margin-top: 12px;
     background-color: #ffc799;
 }
 
@@ -54,10 +52,7 @@ hr {
     background-color: #c8fbff;
 }
 
-description-paragraph {
-    padding-left: 15px;
 
-}
 
 
 
